@@ -21,13 +21,12 @@ B.Sc. in Physics
 
 ### Journals
 
-
--Tuncer Kaya and Başer Tambaş, "Configurational mean-field reduced transfer matrix method for Ising systems", Modern Physics Letters B 34(27), 2050297 (2020).  <a href="https://doi.org/10.1142/S0217984920502978">Link </a> 
+-Tuncer Kaya and Başer Tambaş, "Configurational mean-field reduced transfer matrix method for Ising systems", Modern Physics Letters B 34(27), 2050297 (2020).  <a href="https://doi.org/10.1142/S0217984920502978">[Link]</a> (Preprint at arXiv:2007.02386 <a href="https://arxiv.org/abs/2007.02386"></a>)
 
 ### Talks & Presentations
 
 `1994`
-Presentation Title, Conference, <a href=" ">Link to Presentation</a>
+Presentation Title, Conference, <a href=" ">[Link]</a>
 
 ### Patents
 
