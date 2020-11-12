@@ -3,22 +3,21 @@ layout: resume
 ---
 ## Currently
 
-Current Position Description
+Ph.D. Student in Physics | Istanbul Technical University
 
 ## Education
 
-`1990 - 1994`
-__University Name__
-Degree Awarded
+`2019 - Present`
+__Istanbul Technical University__
+Ph.D. in Physics
 
-`1995 - 1997`
-__University Name__
-Degree Awarded 
+`2016 - 2018`
+__Yıldız Technical University__
+M.Sc. in Physics
 
-## Awards
-
-`2012`
-Name of Award, Organization 
+`2010 - 2016`
+__Yıldız Technical University__
+B.Sc. in Physics
 
 ## Publications
 
