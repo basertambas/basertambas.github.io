@@ -24,7 +24,7 @@ A list is also available [online](https://scholar.google.com/citations?user=vRWX
 
 ### Presentations
 
-- Configurational Mean-Field Transfer Matrix Method for Ising Systems”,talk, International Conference on Mathematical Advances and Applications, 11-13 May 2018, ̇Istanbul <a href="http://icomaa2018.com/wp-content/uploads/2018/07/ICOMAA-2018-ABSTRACT-BOOK-Revised.pdf">[Link]</a>
+- Configurational Mean-Field Transfer Matrix Method for Ising Systems”,<b> talk </b> , International Conference on Mathematical Advances and Applications, 11-13 May 2018, ̇Istanbul <a href="http://icomaa2018.com/wp-content/uploads/2018/07/ICOMAA-2018-ABSTRACT-BOOK-Revised.pdf">[Link]</a>
 <!-- comment -->
 
 ### Patents
