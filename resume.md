@@ -19,7 +19,7 @@ B.Sc. in Physics
 
 ## Publications
 A list is also available [online](https://scholar.google.com/citations?user=vRWXjRYAAAAJ&hl=en)
-### <H3 align="left"> Journals </H3>
+### Journals 
 
 - Tuncer Kaya and Başer Tambaş, "Configurational mean-field reduced transfer matrix method for Ising systems", <i>Modern Physics Letters B</i> <b>34</b>(27), 2050297 (2020). <a href="https://doi.org/10.1142/S0217984920502978">[Link]</a> (Preprint at arXiv:2007.02386 <a href="https://arxiv.org/abs/2007.02386">[Link]</a>)
 <!-- comment -->
