@@ -1,6 +1,8 @@
 ---
 layout: resume
 ---
+title: CV
+
 ## Education
 
 `2019 - Present`
