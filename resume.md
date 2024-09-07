@@ -36,8 +36,8 @@ A list is also available [online](https://scholar.google.com/citations?user=vRWX
 <!-- comment -->
 
 <!-- ### Footer -->
-
-
-Last updated: November 2020 
+Last Updates
+September 2024
+November 2020 
 
 
