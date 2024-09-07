@@ -20,6 +20,7 @@ B.Sc. in Physics
 ## Publications
 A list is also available [online](https://scholar.google.com/citations?user=vRWXjRYAAAAJ&hl=en)
 ### Journals 
+- Başer Tambaş, "Relevant Analytic Spontaneous Magnetization Relation for the Face-Centered-Cubic Ising Lattice", <i>Entropy</i> <b>25</b>(2), 197 (2023). <a href="https://doi.org/10.3390/e25020197">[Link]</a> [[arXiv:2207.14185](https://arxiv.org/abs/2207.14185)]
 
 - Tuncer Kaya and Başer Tambaş, "Configurational mean-field reduced transfer matrix method for Ising systems", <i>Modern Physics Letters B</i> <b>34</b>(27), 2050297 (2020). <a href="https://doi.org/10.1142/S0217984920502978">[Link]</a> [[arXiv:2007.02386](https://arxiv.org/abs/2007.02386)]
 <!-- comment -->
@@ -31,7 +32,7 @@ A list is also available [online](https://scholar.google.com/citations?user=vRWX
 
 ### Patents
 
-- "Elektrik Üretim Düzeneği" (In English: "Electricity Generation Mechanism"), Registration Number 2015 10254 B, issued July 23, 2018, <b> TR </b>
+- "Electricity Generation Mechanism", Registration Number 2015 10254 B, issued July 23, 2018, <b> TR </b>
 <!-- comment -->
 
 <!-- ### Footer -->
