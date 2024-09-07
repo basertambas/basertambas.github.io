@@ -9,4 +9,4 @@ I am interested in both theoretical and computational physics, in particular, on
 
 - Deep Learning
 - Interpretability
-- Quantum Computation
+- Phase Transitions
