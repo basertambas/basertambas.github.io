@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: ''
+title: 'Home – Başer Tambaş'
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
@@ -13,7 +13,7 @@ owner:
   # Do not include the @ symbol in your Twitter username
   twitter: baser_tambas
   linkedin: basertambas
-  github: #username
+  github: basertambas #username
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
