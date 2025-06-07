@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: ''
-description: 'Home – Başer Tambaş'
+title: 'Website of Başer Tambaş'
+description: 'Website of Başer Tambaş, Ph.D. Candidate in Physics at Istanbul Technical University'
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
