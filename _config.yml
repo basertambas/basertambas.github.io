@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title: 'Website of Başer Tambaş'
-description: 'Website of Başer Tambaş, Ph.D. Candidate in Physics at Istanbul Technical University'
+title: 'Başer Tambaş – Statistical Physics & Machine Learning'
+description: 'Research website of Başer Tambaş, Ph.D. candidate in Physics at Istanbul Technical University, focusing on statistical mechanics and deep learning.'
 locale: en_US
 logo: # filename of a logo image that has been placed into your images directory
 
