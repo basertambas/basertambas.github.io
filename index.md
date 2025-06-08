@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 'Başer Tambaş – Statistical Physics & Machine Learning'
+title: 'About Me...'
 description: 'Research website of Başer Tambaş, Ph.D. candidate in Physics at Istanbul Technical University, focusing on statistical mechanics and deep learning.'
 excerpt: "About Me..."
 ---
