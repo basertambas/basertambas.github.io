@@ -5,8 +5,7 @@ description: 'Research website of Başer Tambaş, Ph.D. candidate in Physics at 
 url: "https://basertambas.github.io"
 locale: en_US
 locale: en_US
-logo: # filename of a logo image that has been placed into your images directory
-
+logo: logo_myblog.png
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
   name: Başer Tambaş
