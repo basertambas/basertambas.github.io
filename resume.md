@@ -21,6 +21,7 @@ __Yıldız Technical University__
 M.Sc. in Physics
 
 M.Sc. Thesis: <i>"Gaussian Approach for Ising Model"</i>
+
 `2010 - 2016`
 __Yıldız Technical University__
 B.Sc. in Physics
