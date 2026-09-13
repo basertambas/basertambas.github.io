@@ -1,7 +1,7 @@
 # Site wide configuration
 
 title: 'Başer Tambaş – Statistical Physics & Machine Learning'
-description: 'Research website of Başer Tambaş, Ph.D. candidate in Physics at Istanbul Technical University, focusing on statistical mechanics and deep learning.'
+description: 'Research website of Başer Tambaş, focusing on statistical mechanics and deep learning.'
 url: "https://basertambas.github.io"
 locale: en_US
 locale: en_US
@@ -10,7 +10,8 @@ logo:
 owner:
   name: Başer Tambaş
   avatar: 84E7A196-BC32-4A8F-AC83-E0DC017FFA90.jpeg
-  bio: "Ph.D. Candidate in Physics | Istanbul Technical University"
+  bio: "Postdoctoral Researcher | Koç University" 
+  "Ph.D. in Physics Engineering | Istanbul Technical University"
   email: baser.tambas@gmail.com
   # Do not include the @ symbol in your Twitter username
   twitter: baser_tambas
