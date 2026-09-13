@@ -4,7 +4,7 @@ title: Curriculum Vitae
 ---
 
 ## Experience
-`2019 - 2026`
+`2026 - Present`
 __Koç University__
 Postdoctoral Researcher
 
@@ -13,15 +13,18 @@ Postdoctoral Researcher
 `2019 - 2026`
 __Istanbul Technical University__
 Ph.D. in Physics Engineering
+
 Ph.D. Thesis: <i>"Physics- and Biology-Inspired Learning Dynamics for Artificial Neural Networks"</i>
 
 `2016 - 2018`
 __Yıldız Technical University__
 M.Sc. in Physics
+
 M.Sc. Thesis: <i>"Gaussian Approach for Ising Model"</i>
 `2010 - 2016`
 __Yıldız Technical University__
 B.Sc. in Physics
+
 Senior Thesis: <i>"A Review of the Line Elements of Electrical and Magnetic Universes"</i>
 
 ## Publications
