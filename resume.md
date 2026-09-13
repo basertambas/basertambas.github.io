@@ -26,7 +26,7 @@ M.Sc. Thesis: <i>"Gaussian Approach for Ising Model"</i>
 __Yıldız Technical University__
 B.Sc. in Physics
 
-Senior Thesis: <i>"A Review of the Line Elements of Electrical and Magnetic Universes"</i>
+Senior Thesis: <i>"A Review of the Line Elements of Magnetic and Electrical Universes"</i>
 
 ## Publications
 A list is also available [online](https://scholar.google.com/citations?user=vRWXjRYAAAAJ&hl=en)
